@@ -29,3 +29,4 @@ https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
 https://github.com/MatsuriDayo/plugins/releases/tag/juicity-test-3
 
 ### بعد از نصب پلاگین و اضافه کردن کانفیگ در Nekobox تیک allowInsecure رو باید فعال کنید
+حمایت از من : TSN2wm4TxV8XdG7rjechYsxzTXTbbgJmC8 ترون روی شبکه trc20
